@@ -1,0 +1,12 @@
+{
+  "name": "Serenity Shield",
+  "symbol": "SERSH",
+  "description": "Cross-chain secure storage token for Serenity Shield",
+  "image": "https://example.com/logo.png",
+  "external_url": "https://serenityshield.io",
+  "attributes": [],
+  "properties": {
+    "files": [{ "uri": "https://example.com/logo.png", "type": "image/png" }],
+    "category": "image"
+  }
+}
