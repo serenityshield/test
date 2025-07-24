@@ -2,11 +2,16 @@
   "name": "Serenity Shield",
   "symbol": "SERSH",
   "description": "Cross-chain secure storage token for Serenity Shield",
-  "image": "https://example.com/logo.png",
-  "external_url": "https://serenityshield.io",
-  "attributes": [],
+  "image": "https://raw.githubusercontent.com/serenityshield/test/refs/heads/main/serenity.png",
+  "external_url": "https://s.technology",
+  "attributes": [
+  { "trait_type": "Use Case", "value": "Secure Storage" },
+  { "trait_type": "Chain", "value": "Solana" },
+  { "trait_type": "Bridge", "value": "LayerZero" },
+  { "trait_type": "Launch", "value": "2025" }
+],
   "properties": {
-    "files": [{ "uri": "https://example.com/logo.png", "type": "image/png" }],
+    "files": [{ "uri": "https://raw.githubusercontent.com/serenityshield/test/refs/heads/main/serenity.png", "type": "image/png" }],
     "category": "image"
   }
 }
