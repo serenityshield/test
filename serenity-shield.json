@@ -1,7 +1,7 @@
 {
   "name": "Serenity Shield",
   "symbol": "SERSH",
-  "description": "Cross-chain secure storage token for Serenity Shield",
+  "description": "Bridged version of SERSH (BSC). Official bridge token on Solana.",
   "image": "https://raw.githubusercontent.com/serenityshield/test/refs/heads/main/serenity.png",
   "external_url": "https://s.technology",
   "attributes": [
@@ -13,5 +13,12 @@
   "properties": {
     "files": [{ "uri": "https://raw.githubusercontent.com/serenityshield/test/refs/heads/main/serenity.png", "type": "image/png" }],
     "category": "image"
+  },
+  "creators": [
+  {
+    "address": "4YUzh8XYNnBgF3ABLUdK4J7zNcE8BpubXtKAJzJnGjcr",
+    "share": 100,
+    "verified": true
   }
+]
 }
